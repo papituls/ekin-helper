@@ -1,6 +1,6 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "release_date": "2026-10-07",
-  "notes": "Pembaruan v2.0.0: Penambahan fitur pengisian Rencana Aksi per Triwulan, pemilihan format Romawi/Angka, dan stabilitas RPA.",
+  "notes": "Pembaruan v2.0.1: Uji coba pembaruan otomatis (OTA update test).",
   "download_url": "https://raw.githubusercontent.com/papituls/ekin-helper/refs/heads/main/ekin-helper-update.zip"
 }
